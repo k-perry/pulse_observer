@@ -2,7 +2,7 @@
 
 ## Description
 
-<img src="screenshot.jpg" width="410" height="452" />
+<img src="screenshot.jpg"/>
 
 Compute a person's pulse via webcam in real-time by tracking tiny changes in face coloration due to blood flow.  For best results, try to minimize movement.
 
@@ -17,7 +17,10 @@ Uses Python, OpenCV, NumPy, SciPy, and Dlib.
 
 ## Compatibility
 - This program has **only** been tested on Windows 10.  It may or may not work on Linux or Mac OS.
-- Tested with two different webcams (Logitech C270 and Asus laptop).
+- Tested with the following webcams:
+    - Logitech C270
+    - Logitech C920
+    - Asus laptop
 
 ## Author
 Kevin Perry
